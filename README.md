@@ -1,12 +1,13 @@
 # Funcionalidades
+This repository was created by Caio Aguiar during the "Next Level Week" event where were created a web application with ReactJS, a API REST with NodeJS and a mobile version with React Native for Proffy, a plataform that helps people to have online education, using TypeScript.
 
-## Conexões
+## Connections
 
-- Rota para listar o total de conexões realizadas;
-- Rota para criar uma nova conexão entre aluno e professor;
+- Route to list the total of successfull connections;
+- Route to create a new connection between student and teacher;
 
-## Aulas
+## Classes
 
-- Rota para criar uma aulas;
-- Rota para listar aulas;
-    - Filtrar por matéria, dia da semana e horário;
+- Route to create classes
+- Route to list classes
+    - Filter those classes by subject, day and time.
